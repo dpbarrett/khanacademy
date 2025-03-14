@@ -1,14 +1,3 @@
-# Lesson 3: Cryptography challenge 101
+# Newspaper Article Transcript:
 
-Newspaper article transcript:
 The whole-grain goodness of blue chip dividend stocks has its limits. Utility stocks, consumer staples, pipelines, telecoms, and real estate investment trusts have all lost ground over the past month, even while the broader market has been flat. With the bond market signalling an expectation of rising interest rates, the five-year rally for steady blue-chip dividend payers has stalled. Should you be scared if you own a lot of these stocks, either directly or through mutual funds or exchange-traded-funds? David Baskin, president of Baskin Financial Services, has a two-pronged answer: Keep your top-quality dividend stocks, but be prepared to follow his firm's example in trimming holdings in stocks such as TransCanada Corp., Keyera Corp., and Pembina Pipeline Corp. Lets have Mr Baskin run us through his thinking on dividend stocks, which are a big part of the portfolios his firm puts together for clients.
-
--consonants are zeros
--vowels are ones
-
-|    |    ||    |    |
-|:--:|:--:||:--:|:--:|
-| N  | 00 || SE | 00 |
-| E  | 01 || SW | 01 |
-| S  | 10 || NW | 10 |
-| W  | 11 || NE | 11 |
